@@ -1,1 +1,2 @@
-# progettonfinale-python-pro-kodland8
+# progettonfinale-python-pro-kodl
+-sito web informativo con immagini sul tema (cambiamento climatico) 
